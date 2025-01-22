@@ -8,7 +8,7 @@ https://gamebanana.com/mods/361737
 https://gamebanana.com/mods/455832
 https://gamebanana.com/mods/391546
 
-#- This is a project with purpouse to create the best experience in Sonic Unleashed for the Wii!
+-# This is a project with purpouse to create the best experience in Sonic Unleashed for the Wii!
 
 # Changes:
 - UI, Skyboxes, Maps, QTE Prompts, Buttons and Sonic
