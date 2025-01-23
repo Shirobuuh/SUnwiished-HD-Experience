@@ -8,7 +8,7 @@ https://gamebanana.com/mods/361737
 https://gamebanana.com/mods/455832
 https://gamebanana.com/mods/391546*
 # ALSO
-*- ⚠️ Make sure to change the "Load/`Misc`" folder to "Load/`Z - Misc`", Unfortunately I made a mistake and some textures were overlapping others, I'm sorry! ⚠️*
+*- ⚠️ Make sure to change the "Load/`Misc`" folder to "Load/`zMisc`", Unfortunately I made a mistake and some textures were overlapping others, I'm sorry! ⚠️*
 # *This is a project with purpouse to create the best experience in Sonic Unleashed for the Wii!*
 
 # Changes:
